@@ -1,9 +1,7 @@
 <div align="center">
-  <img src="https://github.com/shedeed-ahmed/shedeed-ahmed/blob/main/header-ai.png?raw=true" width="100%" alt="AI Header"/>
-  
   <h1>Hi, I'm Shedeed Ahmed 👋</h1>
   <h3>Artificial Intelligence Student | Future Machine Learning Engineer</h3>
-
+  
   <p>
     Building intelligent systems with <strong>Python • Machine Learning • Deep Learning</strong><br>
     Turning data into actionable insights | Seeking AI/ML Internship
@@ -28,14 +26,14 @@
 ### 🛠️ Languages and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,sql,nosql,mongodb,docker,git,github,jupyter,pandas,numpy,scikit-learn,pytorch,matplotlib,seaborn,opencv,linux,aws,css,html&perline=12" alt="Skills"/>
+  <img src="https://skillicons.dev/icons?i=python,r,sql,mongodb,docker,git,github,jupyter,pandas,numpy,scikit-learn,pytorch,matplotlib,seaborn&perline=14" alt="Skills"/>
 </p>
 
 ---
 
 ### 🔥 Featured Projects
-- **Customer Churn Prediction (Lloyds Bank)** – End-to-end ML model + Streamlit web app
-- **Heart Disease Prediction** – Classification model using real medical data
+- **Customer Churn Prediction (Lloyds Bank)** – End-to-end Machine Learning model with EDA, feature engineering, and interactive Streamlit web application
+- **Heart Disease Prediction** – Classification model using real-world medical data
 - **AWS AI Study Planner** – AI-powered personalized study plan generator
 
 ---

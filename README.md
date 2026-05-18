@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,45:1e3a8a,100:06b6d4&text=Shedeed%20Ahmed&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=AI%20Student%20%7C%20Machine%20Learning%20%7C%20Data%20Science&descAlignY=58&descSize=17" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,45:1e3a8a,100:06b6d4&text=Shedeed%20Ahmed&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=AI%20Student%20%7C%20Machine%20Learning%20%7C%20Data%20Science&descAlignY=58&descSize=18" width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=900&color=38BDF8&center=true&vCenter=true&width=950&lines=Building+practical+AI%2FML+projects;Turning+data+into+insights+and+models;Learning+Deep+Learning%2C+PyTorch+and+real-world+ML;Open+to+AI%2FML+Internship+Opportunities" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=900&color=38BDF8&center=true&vCenter=true&width=950&lines=AI+Student+building+practical+AI%2FML+projects;Turning+data+into+insights+and+intelligent+models;Focused+on+Machine+Learning%2C+Data+Science+and+PyTorch;Open+to+AI%2FML+Internship+Opportunities" alt="Typing SVG" />
 </a>
 
 <br />
@@ -34,44 +34,31 @@
 
 ---
 
-<table width="100%">
-<tr>
-<td width="58%" valign="top">
-
 ## 🧠 About Me
 
-```yaml
-name: "Shedeed Ahmed Shedeed"
-role: "Artificial Intelligence Undergraduate"
-education: "B.Sc. Artificial Intelligence - Arab Open University"
-graduation: "Expected June 2027"
-location: "Giza, Egypt"
-focus:
-  - "Machine Learning"
-  - "Deep Learning"
-  - "Data Science"
-  - "Data Preprocessing & EDA"
-  - "Building real-world AI projects"
-currently_building:
-  - "ML classification models"
-  - "Data analysis notebooks"
-  - "AI-powered study and productivity tools"
-career_goal: "AI/ML Internship"
-mission: "Learn deeply, build consistently, and turn data into useful intelligent systems."
-```
+<table>
+<tr>
+<td width="65%" valign="top">
+
+### 👋 Hi, I'm Shedeed Ahmed
+
+I am an **AI Student** and **Artificial Intelligence undergraduate at Arab Open University**, expected to graduate in **June 2027**.
+
+I am focused on building a strong practical foundation in **Machine Learning**, **Data Science**, and **Deep Learning** through hands-on projects, clean notebooks, and continuous learning.
+
+My current goal is to grow into an **AI/ML Internship** role where I can apply what I learn to real-world problems, improve my technical skills, and build useful intelligent systems.
 
 </td>
-<td width="42%" valign="top">
+<td width="35%" valign="top">
 
-## 🎯 Current Direction
+### 📌 Profile Snapshot
 
-> I am building a strong practical foundation in AI, Machine Learning, Deep Learning, and Data Science through hands-on projects, clean notebooks, and continuous learning.
-
-- 🔍 Exploring real-world datasets and extracting insights  
-- 🤖 Building ML models with Python and Scikit-learn  
-- 🧩 Learning Deep Learning fundamentals with PyTorch  
-- 📊 Improving EDA, visualization, and feature engineering skills  
-- 🚀 Open to AI/ML internship opportunities  
+- 🎓 **AI Student**
+- 🏫 **Arab Open University**
+- 📅 **Expected Graduation:** 2027
+- 📍 **Location:** Giza, Egypt
+- 🎯 **Goal:** AI/ML Internship
+- 🚀 **Focus:** Practical AI/ML Projects
 
 </td>
 </tr>
@@ -83,7 +70,7 @@ mission: "Learn deeply, build consistently, and turn data into useful intelligen
 
 ## 🧰 Skills & Tools
 
-> A focused stack for AI, Machine Learning, Data Science, and practical project development.
+> Languages, libraries, platforms, and tools I use in AI/ML and Data Science projects.
 
 <br />
 
@@ -103,17 +90,6 @@ mission: "Learn deeply, build consistently, and turn data into useful intelligen
 <img src="https://img.shields.io/badge/Seaborn-0f172a?style=for-the-badge&logo=python&logoColor=38bdf8" />
 <img src="https://img.shields.io/badge/Scikit--learn-0f172a?style=for-the-badge&logo=scikitlearn&logoColor=f97316" />
 <img src="https://img.shields.io/badge/PyTorch-0f172a?style=for-the-badge&logo=pytorch&logoColor=ef4444" />
-<img src="https://img.shields.io/badge/Machine%20Learning-0f172a?style=for-the-badge&logo=tensorflow&logoColor=f97316" />
-<img src="https://img.shields.io/badge/Deep%20Learning-0f172a?style=for-the-badge&logo=pytorch&logoColor=ef4444" />
-<img src="https://img.shields.io/badge/Data%20Preprocessing-0f172a?style=for-the-badge&logo=databricks&logoColor=38bdf8" />
-<img src="https://img.shields.io/badge/EDA-0f172a?style=for-the-badge&logo=googleanalytics&logoColor=facc15" />
-<img src="https://img.shields.io/badge/Data%20Cleaning-0f172a?style=for-the-badge&logo=openrefine&logoColor=22c55e" />
-<img src="https://img.shields.io/badge/Data%20Visualization-0f172a?style=for-the-badge&logo=chartdotjs&logoColor=facc15" />
-<img src="https://img.shields.io/badge/Feature%20Engineering-0f172a?style=for-the-badge&logo=dependabot&logoColor=38bdf8" />
-<img src="https://img.shields.io/badge/Neural%20Networks-0f172a?style=for-the-badge&logo=weightsandbiases&logoColor=facc15" />
-<img src="https://img.shields.io/badge/CNN-0f172a?style=for-the-badge&logo=opencv&logoColor=38bdf8" />
-<img src="https://img.shields.io/badge/RNN-0f172a?style=for-the-badge&logo=keras&logoColor=ef4444" />
-<img src="https://img.shields.io/badge/LSTM-0f172a?style=for-the-badge&logo=keras&logoColor=ef4444" />
 <img src="https://img.shields.io/badge/Microsoft%20Office-0f172a?style=for-the-badge&logo=microsoftoffice&logoColor=f97316" />
 
 </div>
@@ -124,13 +100,12 @@ mission: "Learn deeply, build consistently, and turn data into useful intelligen
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### ❤️ Heart Disease Prediction
 
 Built a machine learning classification project using real-world medical data to support heart disease risk prediction.
 
-**Focus:** Data preprocessing, EDA, classification, model evaluation  
 **Stack:** Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
 
 <a href="https://github.com/shedeed-ahmed?tab=repositories">
@@ -138,13 +113,12 @@ Built a machine learning classification project using real-world medical data to
 </a>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 📉 Customer Churn Prediction
 
 Developed a machine learning workflow to analyze customer behavior, engineer features, and predict churn probability.
 
-**Focus:** EDA, feature engineering, supervised learning, model evaluation  
 **Stack:** Python, Pandas, NumPy, Scikit-learn, Seaborn
 
 <a href="https://github.com/shedeed-ahmed?tab=repositories">
@@ -153,28 +127,27 @@ Developed a machine learning workflow to analyze customer behavior, engineer fea
 
 </td>
 </tr>
+
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### ☁️ AWS AI Study Planner
 
 Created an AI-powered study planning app that generates personalized learning plans based on user goals and study preferences.
 
-**Focus:** AI productivity, prompt design, planning logic, user-centered output  
-**Stack:** Python, AI tools, AWS AI learning path concepts
+**Stack:** Python, AI tools, AWS AI learning concepts
 
 <a href="https://github.com/shedeed-ahmed?tab=repositories">
   <img src="https://img.shields.io/badge/View_Project-0ea5e9?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 📊 Kaggle EDA Practice
 
 Practiced data exploration and preprocessing on Kaggle datasets to improve analytical thinking and clean notebook structure.
 
-**Focus:** Data cleaning, missing values, visualization, insights, preprocessing  
 **Stack:** Python, Jupyter Notebook, Kaggle, Pandas, NumPy, Seaborn
 
 <a href="https://www.kaggle.com/shedeedahmed">
@@ -191,103 +164,80 @@ Practiced data exploration and preprocessing on Kaggle datasets to improve analy
 
 ## 🧭 AI/ML Roadmap — From Student to Professional
 
-> A clear learning path that shows where I am going: from fundamentals to building complete AI/ML solutions.
+> My roadmap from fundamentals to building end-to-end AI/ML projects.
 
 </div>
 
 <table>
 <tr>
-<td align="center" width="16%">
+<td align="center" width="16%" valign="top">
 
-### 01
+### 01  
 **Programming Foundation**
 
-Python · R · SQL · Git · GitHub
+Python  
+R  
+SQL  
+Git & GitHub  
 
 </td>
-<td align="center" width="16%">
+<td align="center" width="16%" valign="top">
 
-### 02
+### 02  
 **Data Foundations**
 
-NumPy · Pandas · Data Cleaning · EDA · Visualization
+NumPy  
+Pandas  
+Data Cleaning  
+EDA  
+Visualization  
 
 </td>
-<td align="center" width="16%">
+<td align="center" width="16%" valign="top">
 
-### 03
+### 03  
 **Machine Learning**
 
-Supervised ML · Unsupervised ML · Feature Engineering · Evaluation
+Supervised Learning  
+Unsupervised Learning  
+Feature Engineering  
+Model Evaluation  
 
 </td>
-<td align="center" width="16%">
+<td align="center" width="16%" valign="top">
 
-### 04
+### 04  
 **Deep Learning**
 
-Neural Networks · CNN · RNN · LSTM · PyTorch
+Neural Networks  
+CNN  
+RNN  
+LSTM  
+PyTorch  
 
 </td>
-<td align="center" width="16%">
+<td align="center" width="16%" valign="top">
 
-### 05
+### 05  
 **AI Engineering**
 
-NoSQL · MongoDB · Docker · Project Structure · Deployment Basics
+NoSQL  
+MongoDB  
+Docker  
+Project Structure  
+Deployment Basics  
 
 </td>
-<td align="center" width="16%">
+<td align="center" width="16%" valign="top">
 
-### 06
+### 06  
 **Professional Portfolio**
 
-End-to-End Projects · Clean READMEs · Kaggle · Articles · Internship Readiness
-
-</td>
-</tr>
-</table>mermaid
-flowchart LR
-    A[Python Foundations] --> B[Data Cleaning]
-    B --> C[EDA & Visualization]
-    C --> D[Machine Learning]
-    D --> E[Model Evaluation]
-    E --> F[Feature Engineering]
-    F --> G[Deep Learning Basics]
-    G --> H[PyTorch Practice]
-    H --> I[End-to-End AI Projects]
-```
-
----
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-## 🧪 What I Practice
-
-- Writing clean and readable notebooks  
-- Understanding datasets before modeling  
-- Data cleaning and preprocessing  
-- Exploratory Data Analysis  
-- Feature engineering  
-- Training and evaluating ML models  
-- Communicating insights clearly  
-- Building projects that solve practical problems  
-
-</td>
-<td width="50%" valign="top">
-
-## 📚 Currently Learning
-
-- Supervised and unsupervised learning  
-- Neural networks fundamentals  
-- CNN, RNN, and LSTM basics  
-- PyTorch for deep learning  
-- NoSQL and MongoDB basics  
-- Docker for project deployment  
-- Better Git/GitHub workflows  
-- End-to-end ML project structure  
+End-to-End Projects  
+Kaggle Notebooks  
+Clean READMEs  
+Technical Writing  
+Internship Readiness  
 
 </td>
 </tr>

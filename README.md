@@ -249,17 +249,11 @@ Internship Readiness
 
 ## 📈 GitHub Analytics
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shedeed-ahmed&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" />
-<img width="49%" src="https://streak-stats.demolab.com?user=shedeed-ahmed&theme=tokyonight&hide_border=true" />
+> A clean overview of my GitHub activity, contribution history, and development progress.
 
-<br /><br />
+<br />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shedeed-ahmed&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shedeed-ahmed&theme=tokyonight&utcOffset=2" />
-
-<br /><br />
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=shedeed-ahmed&theme=tokyo-night&hide_border=true&area=true" />
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shedeed-ahmed&theme=tokyonight" />
 
 </div>
 

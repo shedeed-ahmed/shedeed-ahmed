@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,45:1e3a8a,100:06b6d4&text=Shedeed%20Ahmed&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=AI%20Undergraduate%20%7C%20Machine%20Learning%20%7C%20Data%20Science&descAlignY=58&descSize=17" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,45:1e3a8a,100:06b6d4&text=Shedeed%20Ahmed&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=AI%20Student%20%7C%20Machine%20Learning%20%7C%20Data%20Science&descAlignY=58&descSize=17" width="100%" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=900&color=38BDF8&center=true&vCenter=true&width=950&lines=Building+practical+AI%2FML+projects;Turning+data+into+insights+and+models;Learning+Deep+Learning%2C+PyTorch+and+real-world+ML;Open+to+AI%2FML+Internship+Opportunities" alt="Typing SVG" />
@@ -83,9 +83,9 @@ mission: "Learn deeply, build consistently, and turn data into useful intelligen
 
 ## 🧰 Skills & Tools
 
-<img src="https://skillicons.dev/icons?i=python,r,sql,mongodb,docker,git,github,py,pytorch,sklearn,anaconda,vscode,linux,html,css&perline=15" />
+> A focused stack for AI, Machine Learning, Data Science, and practical project development.
 
-<br /><br />
+<br />
 
 <img src="https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python&logoColor=38bdf8" />
 <img src="https://img.shields.io/badge/R-0f172a?style=for-the-badge&logo=r&logoColor=60a5fa" />
@@ -105,7 +105,8 @@ mission: "Learn deeply, build consistently, and turn data into useful intelligen
 <img src="https://img.shields.io/badge/PyTorch-0f172a?style=for-the-badge&logo=pytorch&logoColor=ef4444" />
 <img src="https://img.shields.io/badge/Machine%20Learning-0f172a?style=for-the-badge&logo=tensorflow&logoColor=f97316" />
 <img src="https://img.shields.io/badge/Deep%20Learning-0f172a?style=for-the-badge&logo=pytorch&logoColor=ef4444" />
-<img src="https://img.shields.io/badge/EDA-0f172a?style=for-the-badge&logo=databricks&logoColor=38bdf8" />
+<img src="https://img.shields.io/badge/Data%20Preprocessing-0f172a?style=for-the-badge&logo=databricks&logoColor=38bdf8" />
+<img src="https://img.shields.io/badge/EDA-0f172a?style=for-the-badge&logo=googleanalytics&logoColor=facc15" />
 <img src="https://img.shields.io/badge/Data%20Cleaning-0f172a?style=for-the-badge&logo=openrefine&logoColor=22c55e" />
 <img src="https://img.shields.io/badge/Data%20Visualization-0f172a?style=for-the-badge&logo=chartdotjs&logoColor=facc15" />
 <img src="https://img.shields.io/badge/Feature%20Engineering-0f172a?style=for-the-badge&logo=dependabot&logoColor=38bdf8" />
@@ -188,11 +189,64 @@ Practiced data exploration and preprocessing on Kaggle datasets to improve analy
 
 <div align="center">
 
-## 📌 AI/ML Learning Roadmap
+## 🧭 AI/ML Roadmap — From Student to Professional
+
+> A clear learning path that shows where I am going: from fundamentals to building complete AI/ML solutions.
 
 </div>
 
-```mermaid
+<table>
+<tr>
+<td align="center" width="16%">
+
+### 01
+**Programming Foundation**
+
+Python · R · SQL · Git · GitHub
+
+</td>
+<td align="center" width="16%">
+
+### 02
+**Data Foundations**
+
+NumPy · Pandas · Data Cleaning · EDA · Visualization
+
+</td>
+<td align="center" width="16%">
+
+### 03
+**Machine Learning**
+
+Supervised ML · Unsupervised ML · Feature Engineering · Evaluation
+
+</td>
+<td align="center" width="16%">
+
+### 04
+**Deep Learning**
+
+Neural Networks · CNN · RNN · LSTM · PyTorch
+
+</td>
+<td align="center" width="16%">
+
+### 05
+**AI Engineering**
+
+NoSQL · MongoDB · Docker · Project Structure · Deployment Basics
+
+</td>
+<td align="center" width="16%">
+
+### 06
+**Professional Portfolio**
+
+End-to-End Projects · Clean READMEs · Kaggle · Articles · Internship Readiness
+
+</td>
+</tr>
+</table>mermaid
 flowchart LR
     A[Python Foundations] --> B[Data Cleaning]
     B --> C[EDA & Visualization]
